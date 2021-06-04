@@ -1,1 +1,1 @@
-# inventory-project
+# mauryaramteke-inventory-project
